@@ -34,7 +34,6 @@ class globais{
 
 class Notifications{
      void enviar(String destinatario){}
-
 }
 
 class enviarEmail implements Notifications{
